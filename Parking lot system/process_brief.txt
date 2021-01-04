@@ -1,0 +1,14 @@
+Process Brief:
+
+Two module has been created.
+1: parking_lot_system
+2: test_parking_lot
+
+1: parking_lot_system
+This module contains various classes and functions and logics.
+
+
+2: test_parking_lot
+This is test file created using unit testing method to test every functions and working
+using assert methods.
+
